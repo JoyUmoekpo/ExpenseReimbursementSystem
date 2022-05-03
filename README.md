@@ -30,4 +30,4 @@ Cloning My Repository
 * Open GitBash and clone the project to your chosen location.
 
 ## Images
-![Login page] (ExpenseReimbursementSystem/ExpenseReimbursementSystem/src/main/resources/web/images/Login.png)
+![Login page] (ExpenseReimbursementSystem/src/main/resources/web/images/Login.png)
