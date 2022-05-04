@@ -31,4 +31,4 @@ Cloning My Repository
 
 ## Images
 Assets are in the images file.
-![Reimbursement Form](ExpenseReimbursementSystem\ExpanseReimbursementSystem\src\main\resources\web\images\Reimbursement.png)
+![Reimbursement Form](src\main\resources\web\images\Reimbursement.png)
