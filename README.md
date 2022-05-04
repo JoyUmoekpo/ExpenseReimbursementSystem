@@ -18,12 +18,12 @@ Selenium, version 4.1.1
 Below is a list of the present features that will be included in this project.
 
 ### Implemented Features
-Employees can login.
-Employees can create reimbursements.
-Employees can see all reimbursements.
-Managers can login.
-Managers can see all reimbursements.
-Managers can approve or deny reimbursements.
+* Employees can login.
+* Employees can create reimbursements.
+* Employees can see all reimbursements.
+* Managers can login.
+* Managers can see all reimbursements.
+* Managers can approve or deny reimbursements.
 
 ## Getting Started
 Cloning My Repository
